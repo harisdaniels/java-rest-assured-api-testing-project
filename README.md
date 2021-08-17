@@ -105,10 +105,11 @@ In order to run your test and generating TestNG Report at once, you can hover yo
 ## Test Report by TestNG
 After run the test, you can also see the result of the test by double-clicking the `index.html` file that stored inside the `test-output` folder.
 ![Screenshot_10](https://user-images.githubusercontent.com/74105380/128624249-f9a2b853-2ecf-4f66-9720-096b6d54c1b5.jpg)
+> If `test-output` folder does not appear, right-click on the project and click `refresh`.
 
 
 ### Test Report Sample
-![Screenshot_9](https://user-images.githubusercontent.com/74105380/128624196-d8b81978-c183-47aa-9490-18a1fcc0ad9b.jpg)
+![Screenshot_4](https://user-images.githubusercontent.com/74105380/129662415-13b182b6-a54f-472c-9f95-b7e253cfc8cf.jpg)
 The result will be like this.
 
 
