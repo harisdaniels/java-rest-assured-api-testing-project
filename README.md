@@ -1,4 +1,4 @@
-# This Is My Self-Mini Project of API Testing Using REST-Assured
+# This Is My Sample Project of API Testing Using REST-Assured
 
 ## Project Information
 For this project, i use: 
@@ -55,7 +55,7 @@ You can easily combine multiple languages support and other features into any of
 - Use `@BeforeClass` The annotated method will be run before the first test method in the current class is invoked.
 - Use `@Test(priority = 1)` Marks a class or a method as part of the test. The priority for this test method. Lower priorities will be scheduled first.
   Full explanation can be found [here](https://testng.org/doc/documentation-main.html#test-methods)
-- `given()`, `when()`, `then()` are part of RestAssured Syntax. Full explanation can be found [here](https://www.javadoc.io/doc/io.rest-assured/rest-assured/latest/io/restassured/RestAssured.html)
+- `given()`, `when()`, `then()` are part of Gherkin Syntax. Full explanation can be found [here](https://www.javadoc.io/doc/io.rest-assured/rest-assured/latest/io/restassured/RestAssured.html)
 
 - Example:
 
